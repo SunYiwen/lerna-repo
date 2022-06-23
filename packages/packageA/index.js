@@ -1,3 +1,3 @@
 function message() {
-  console.log('hello packageA');
+  console.log('hello world');
 }
